@@ -10,7 +10,7 @@
 		}
 	],
 	"levelFeatures": {
-		1 : {
+		"1" : {
 			"baseAttackBonus": 1,
 			"fortSave": 2,
 			"refSave": 0,
@@ -35,8 +35,8 @@
 				}
 			]
 		},
-		2: {
-			/* etc .. */
+		"2": {
+			
 		}
 	},
 
